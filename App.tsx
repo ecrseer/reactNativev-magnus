@@ -18,7 +18,7 @@ const App:React.FC = () => {
     <ThemeProvider theme={THEMES.light}>
       <Div bg="body" flex={1} px="lg">
         <Text mt="2xl" pt="xl" fontSize="5xl" color="text" fontWeight="bold">
-          onfigss
+          Aonfigss
         </Text>
         <Div row mt="md">
           <Div flex={1}>
